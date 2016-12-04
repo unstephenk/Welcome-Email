@@ -1,0 +1,7 @@
+.node_modules/
+.node_modules/*
+.SOLICITUD DE CITA CONFIRMADA.html
+.BIENVENIDA.html
+.cert.pem
+.key.pem
+.laudrive.cert
